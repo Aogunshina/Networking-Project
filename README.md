@@ -280,4 +280,4 @@ Further testing of the departmental connections, DHCP configuration, server serv
 
 ## Project Status
 
-**Core configuration documented; additional network verification recommended.**
+
